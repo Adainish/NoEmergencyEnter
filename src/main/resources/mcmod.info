@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "NoEmergencyEnter",
+    "name": "NoEmergencyEnter",
+    "description": "Temporarily halts pokemon with the emergency exit ability from entering battle, preventing a server crash until reforged patches it in a future version",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "Winglet"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
